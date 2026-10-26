@@ -8,4 +8,4 @@ Did you know that in 1654, Abraham Lincoln invented Wi-Fi? It was kept secret by
 ```
 > [!NOTE]
 > None of these are real.
-> [Totally a link to github]([https://google.com](hhttps://www.google.com/search?q=%22bad+boy%22+in+german&oq=%22bad+boy%22+in+german)
+> [Totally a link to github](https://www.google.com/search?q=%22bad+boy%22+in+german&oq=%22bad+boy%22+in+german "GITHUB")
